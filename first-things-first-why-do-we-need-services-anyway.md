@@ -2,7 +2,7 @@
 
 # First things First - Why do we need Services anyway?
 
-For many years we have been creating and designing new solutions with _the services_ approach to address several known problems, such as:
+_For many years we have been creating and designing new solutions_ with _the services_ approach to address several known problems, such as:
 
 ## **a\) Business Layer**
 

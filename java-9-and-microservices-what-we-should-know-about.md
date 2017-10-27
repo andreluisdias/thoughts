@@ -10,14 +10,6 @@ Below we selected some of those features that could help the implementation of M
 
 So, let’s get started…
 
-This article highlights the most important features added for new Java version and their applicability to create excellent Microservices solutions with Java 9.
-
-Some weeks ago the newest Java version was officially released. During the most important event promoted by Oracle, at JavaOne all new Java features and other topics were presented to the communities and enterprises, in order to foster the usage and exploration of the new capabilities added to it.
-
-Below we selected some of those features that could help the implementation of Microservices solutions, with the advent of newer containers and other language approaches that could bring quality and accelerate the development and performance of this distributed systems.
-
-So, let’s get started…
-
 ## REPL – JShell \(JEP 222\)
 
 REPL stands for Read-Eval-Print-Loop. The purpose of this is to accomplish easy test tasks in a specific codebase part, without the need to deploy the whole solution and then debug the desired source code.
@@ -26,7 +18,7 @@ In the new Java version, this approach was incorporated within the JDK, by the n
 
 ## Concurrency Updates \(JEP 266\)
 
-This interesting feature is the reactive programming movement effort formalization for  Java language. It’s an interoperable publish-subscribe framework, enhancements to the`CompletableFuture` API, and various other improvements incorporated to the Java language, according to the [official site](http://openjdk.java.net/jeps/266).
+This interesting feature is the reactive programming movement effort formalization for  Java language. It’s an interoperable publish-subscribe framework, enhancements to the`CompletableFuture` API, and various other improvements incorporated to the Java language, according to the official site.
 
 This way, we can implement Reactive Microservices in Java using this important update in Java 9!
 
@@ -34,11 +26,9 @@ This way, we can implement Reactive Microservices in Java using this important u
 
 This feature helps developers and systems alike to understand more the deprecation of a specific API, in a easy and seamless way. This could support the contract evolution of the exposed services.
 
-For more information, please check [here](http://openjdk.java.net/jeps/277).
-
 ## New Version String Format \(JEP 223\)
 
-[Semantic versioning](http://semver.org) is the message here. In the new Java version a new version scheme was defined as described below:
+Semantic versioning is the message here. In the new Java version a new version scheme was defined as described below:
 
 **Major.Minor.Security.Patch**, where:
 
@@ -50,7 +40,7 @@ For more information, please check [here](http://openjdk.java.net/jeps/277).
 
 **Patch** = $PATCH version when you make backwards-compatible bug fixes.
 
-With Microservices projects [this feature](http://openjdk.java.net/jeps/223) could foster a new way to control the versioning and evolution of the projects and solutions delivered, with a clear view of what’s inside of it when this pattern is rigorously followed.
+With Microservices projects this feature could foster a new way to control the versioning and evolution of the projects and solutions delivered, with a clear view of what’s inside of it when this pattern is rigorously followed.
 
 ## The Best Part: Modularity \(JEP 261\)
 
@@ -64,11 +54,7 @@ In the Microservices arena, this represents an excellent effort to:
 * Do better test our Microservices
 * To deliver the Microservices
 
-For more information, please check the [official page](http://openjdk.java.net/jeps/261).
-
-## In Summary
+## Conclusion
 
 All in all the Java community is working hard to accomplish and realize the best ideas and needed changes in Java in order to address the continuous business demands of our customers using the solid Microservices architectural approach.
-
-
 
