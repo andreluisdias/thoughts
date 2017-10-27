@@ -27,9 +27,8 @@ On Level 1, you talk directly with your resources - _correctly defined_ - using 
   * `services/hotel/1/rooms/all` \(or `services/hotel/1/rooms`\)
     Should bring details of all rooms of the hotel with `ID #1`
 
-
-  * `services/hotel/1/room/1`
-    Should bring details of the hotel room with `ID #1` of the `hotel #01`
+* `services/hotel/1/room/1`
+  Should bring details of the hotel room with `ID #1` of the `hotel #01`
 
 _Observations_
 
@@ -38,7 +37,11 @@ _Observations_
 
 ### **Level 2 = HTTP Verbs**
 
-In this level, you a have a clear understanding of the semantics of HTTP verbs and can now map your service operations using HTTP verbs accordingly, using GET, POST, DELETE, PUT, standardizing your access to your services resources.
+In this level, you a have a clear understanding of the semantics of HTTP verbs and can now map your service operations using HTTP verbs accordingly, using GET, POST, DELETE, PUT, standardizing your access to your services resources.
+
+### **Level 3 = Multimedia**
+
+In this maturity level, it's possible to extract the maximum benefit from the HTTP protocol and services resources using Multimedia \(HATEOAS\). The API should help on discoverability of all resources associated with the payload requested, via links available within the payload itself.
 
 
 
