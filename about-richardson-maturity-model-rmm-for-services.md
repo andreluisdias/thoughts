@@ -1,3 +1,5 @@
+# _Chapter 02_
+
 # About Richardson Maturity Model \(RMM\) for Services
 
 Richardson Maturity Model \(RMM\) it’s a model developed by **Richardson, Leonard **that helps organize your REST APIs in some levels, described below.
@@ -24,10 +26,11 @@ On Level 1, you talk directly with your resources - _correctly defined_ - using 
   * `/services/hotel/1/details` \(or `/services/hotel/1`\)
     Should bring details of the hotel with ID \#1
 * Resource _**room **_\(from _**hotel**_ above\):
+
   * `services/hotel/1/rooms/all` \(or `services/hotel/1/rooms`\)
     Should bring details of all rooms of the hotel with `ID #1`
 
-* `services/hotel/1/room/1`
+* `services/hotel/1/room/1`  
   Should bring details of the hotel room with `ID #1` of the `hotel #01`
 
 _Observations_
@@ -42,6 +45,4 @@ In this level, you a have a clear understanding of the semantics of HTTP verbs a
 ### **Level 3 = Multimedia**
 
 In this maturity level, it's possible to extract the maximum benefit from the HTTP protocol and services resources using Multimedia \(HATEOAS\). The API should help on discoverability of all resources associated with the payload requested, via links available within the payload itself.
-
-
 
