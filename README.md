@@ -1,4 +1,6 @@
 # Java 9 Microservices for Developers
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Version 1.0 - October 2017
+
+Author: [André Luis de Oliveira Dias](https://about.me/andreluisdias)
 
