@@ -34,13 +34,7 @@ All of the topics above are some of the most important ones that we have faced s
 
 But, back in 2017…
 
-With the adoption and growth of **Microservices** mostly by big companies, this way of thinking should be here to stay and at the same time bring more complexity, due to new problems and challenges that arouse from this new Architecture Style.
-
-It’s the Service Way of thinking brought to a new level…
+With the adoption and growth of **Microservices** mostly by big companies, this way of thinking, this architectural approach should be here to stay and, at the same time, bring more complexity to the final solutions due to new problems and challenges that arouse from this new Architecture Style.
 
 Today we have to understand not only the complexity of Business but we also should understand more technologies and tools available today to support the new scalable and business driven decisions made with **Microservices**.
-
-With that in mind we dedicate this blog only for the study and insights of **Microservices Architectural style** in all of its perspectives, in order to bring to you the best content and support your service project decisions whenever needed.
-
-
 
