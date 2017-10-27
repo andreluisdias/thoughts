@@ -37,7 +37,7 @@ Although both SOA and Microservices are architecture styles \(_architecture styl
 
 ## Mistake \#02 – “If I use REST, I already have Microservices” approach
 
-In the MSA, the REST approach is only one of the main attributes of MSA. For an application to be labeled as a _Microservice solution_ one should have all characteristics described by the 12-factor methodology.
+In the MSA, the REST approach is only one of the main attributes of MSA. For an application to be labeled as a _Microservice solution_ one should have all characteristics described by the 12-factor methodology.
 
 Besides any level of maturity with REST should suffice. For more information on RMM with REST, read **Chapter 02**.
 
@@ -47,9 +47,7 @@ Yes. Unfortunately it’s a problem.
 
 Microservices should:
 
-* run totally isolated in its environment with all needed resources in hand \(
-  _loosely coupled_
-  \)
+* run totally isolated in its environment with all needed resources in hand \(_loosely coupled_\)
 * be able to be scaled independently
 * be able to be deployed independently, in it’s own CD/CI to accelerate the answer for changes in a specific funcional feature
 * be able to be traced
@@ -72,6 +70,4 @@ This _business problem_ then is splitted in smaller pieces \(_the Microservices 
 ## Conclusion
 
 Now that you know what not to do and are eager for more information on the Microservices topic, stay tuned for other concepts and discussions we bring to you in this blog, such as Microservices testing, Design Patterns, Architecture Design and Programming implementation for Microservices, Servleless Architecture and many more.
-
-
 
