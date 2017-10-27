@@ -1,3 +1,5 @@
+# _Chapter 04_
+
 # Business Motivators to Embrace Microservices Solutions
 
 _Microservices Architecture style is no longer a hype by now._
@@ -75,15 +77,13 @@ This gives flexibility to the solution once you can explore the best approaches 
 
 They are made with only one object in mind. Simplicity.
 
-As Einstein said: [_Everything should be made as simple as possible, but no simpler_](https://quoteinvestigator.com/2011/05/13/einstein-simple/)
+As Einstein said: [_Everything should be made as simple as possible, but no simpler_](https://quoteinvestigator.com/2011/05/13/einstein-simple/)
 
 Of course the simplicity comes with a price. But you should vouch for the Microservices Architecture and design your solutions in it with all the benefits it brings to you. Do the trade-off by yourself and you see the advantages in it.
 
----
+## Conclusion
 
 Microservices should address a specific business domain and deliver great business value through its well defined and public and API documentation.
 
 In essence, these are today the main drivers that we believe you should considered when you start thinking about a new solution design using the Microservices Architecture \(MSA\) style.
-
-
 
