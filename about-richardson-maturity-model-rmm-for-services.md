@@ -2,7 +2,7 @@
 
 # About Richardson Maturity Model \(RMM\) for Services
 
-Richardson Maturity Model \(RMM\) it’s a model developed by **Richardson, Leonard **that helps organize your REST APIs in some levels, described below.
+_Richardson Maturity Model \(RMM\) it’s a model developed by **Richardson, Leonard **that helps organize your REST APIs in some levels, described below._
 
 The importance of this topic is key, once we have to create and maintain better services APIs.
 

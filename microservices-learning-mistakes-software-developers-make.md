@@ -2,7 +2,7 @@
 
 # Microservices Learning Mistakes Software Developers make
 
-When we are learning a new technology or tool we always rely on we already know or experienced in our past projects. However, we ended up assuming too many things \(mostly wrong ones\) specially when we are learning one of the most important and recent topics of our industry: **Microservices**.
+_When we are learning a new technology or tool_ we always rely on we already know or experienced in our past projects. However, we ended up assuming too many things \(mostly wrong ones\) specially when we are learning one of the most important and recent topics of our industry: **Microservices**.
 
 Here we’ll highlight the 05 main mistakes professionals do when they are learning the Microservices subject.
 
